@@ -1,0 +1,30 @@
+[data-porcentagem="10"].animation{
+    width: 10%;
+}
+[data-porcentagem="20"].animation{
+    width: 20%;
+}
+[data-porcentagem="30"].animation{
+    width: 30%;
+}
+[data-porcentagem="40"].animation{
+    width: 40%;
+}
+[data-porcentagem="50"].animation{
+    width: 50%;
+}
+[data-porcentagem="60"].animation{
+    width: 60%;
+}
+[data-porcentagem="70"].animation{
+    width: 70%;
+}
+[data-porcentagem="80"].animation{
+    width: 80%;
+}
+[data-porcentagem="90"].animation{
+    width: 90%;
+}
+[data-porcentagem="100"].animation{
+    width: 100%;
+}

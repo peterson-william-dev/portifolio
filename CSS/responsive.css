@@ -1,0 +1,41 @@
+@media screen and (max-width: 992px) {
+    #menu{
+        display: none;
+    }
+    .navbar{
+        justify-content: center;
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .card{
+        width: 280px;
+    }
+    .card-img-top{
+        width: 260px;
+        height: 100px;
+    }
+
+}
+@media screen and (max-width: 550px) {
+    .img-fluid{
+        width: 50%;
+    }
+}
+@media screen and (max-width: 360px) {
+    .card{
+        width: 280px;
+    }
+    .card-img-top{
+        width: 260px;
+        height: 100px;
+    }
+}
+@media screen and (max-width: 323px) {
+    footer span{
+        font-size: 10px;
+    }
+    svg{
+        width: 15px;
+    }
+}
